@@ -1,6 +1,6 @@
 # DataViz
 Repository for the Webinar DataViz<br>
-<b> Visualizing the impact if COVID-19 on the countries of Asia using data visualization techniques
+<b> Visualizing the impact if COVID-19 on the countries of Asia using data visualization techniques</b>
 
 # Libraries Used
     Pandas
